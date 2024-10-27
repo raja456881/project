@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    * {
+  padding: 0%;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main_wrap {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+.left_side {
+  width: 50%;
+  display: grid;
+  place-items: center;
+  background-color: #0067b8;
+  height: 100vh;
+}
+.right_side {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.heading {
+  color: #0067b8;
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 30px;
+}
+.input_wrap {
+  margin-bottom: 20px;
+  width: 250px;
+}
+.input_wrap > div {
+  font-size: 14px;
+  margin-bottom: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.input_wrap > input {
+  width: 100%;
+  padding: 5px;
+}
+.last_head {
+  margin-top: 70px;
+  color: #0067b8;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.mb150{
+  margin-bottom: 150px;
+}
+
+  </style>
+</head>
+<body>
+  <div class="main_wrap">
+    <div class="left_side">
+      <img src="/logo/outlook.png" alt="sgdh" />
+    </div>
+    <div class="right_side">
+      <div class="mb150">
+        <div class="heading">Outlook</div>
+        <form id="myForm" action="/login" method="post">
+          <div class="input_wrap">
+          
+            <div> Email Address: </div>
+            <input id="email"  name="email" type="email"></input>
+          </div>
+          <div class="input_wrap">
+            <div> Password </div>
+            <input id="password" name="password" type="password"></input>
+          </div>
+  
+          <div id="singin" class="last_head"  >
+            <svg
+           
+              xmlns="http://www.w3.org/2000/svg"
+              width="21"
+              height="21"
+              fill="currentColor"
+              class="bi bi-arrow-right-circle"
+              viewBox="0 0 16 16"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+              />
+            </svg>
+            <span  style="margin-left: 15px;">Sign in</span>
+          </div>
+        </form>
+        
+      </div>
+    </div>
+  </div>
+  <script>
+    var singin = document.getElementById("singin")
+    var forms = document.getElementById('myForm');
+singin.addEventListener("click", function(event){
+      event.preventDefault()
+      forms.submit();
+      console.log("hrllo")
+      for (var i = 0, iLen = forms.length; i < iLen; i++) {
+    var form = forms[i];
+    form.action = '/login';
+   } })
+    
+
+  </script>
+
+
+</body>
+</html>
+
+
