@@ -537,7 +537,7 @@ def main():
         cleanFake()
         # Inicia o banco
         initDB(DATABASE)
-        app.run(host="0.0.0.0", port=5000)
+        app.run(host="0.0.0.0", port=8000)
 
 if __name__ == "__main__":
     try:
