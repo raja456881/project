@@ -26687,3 +26687,1182 @@ socialfish..................................
 127.0.0.1 - - [01/Nov/2024 12:29:41] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [01/Nov/2024 12:29:41] "GET /logo/amazon.jpg HTTP/1.1" 304 -
 127.0.0.1 - - [01/Nov/2024 12:29:45] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 12:36:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:36:52] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:37:12] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 12:40:40] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /css/font-face.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /css/theme.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /token/qrcode.svg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:43] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:46] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:46] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:46] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:46] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:46] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:46] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:40:51] "GET /single/327 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:41:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 12:41:00] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 12:41:04] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 12:58:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:00:57] "GET /single/253 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:00:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:00:59] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 13:00:59] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:04:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:06:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:06:35] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:06:35] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:07:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 13:07:08] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 13:07:33] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 13:08:21] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 13:47:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:09:38] "GET /version HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 14:09:44] "GET /version HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 14:09:47] "GET /version HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 14:10:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:10:36] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:10:36] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:11:13] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:11:32] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:13:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:13:12] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:13:31] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:15:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:15:12] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:15:26] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:17:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:17:19] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:18:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:19:00] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:19:12] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:28:36] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:28:37] "GET /css/font-face.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:37] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:37] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:37] "GET /css/theme.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /token/qrcode.svg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:38] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:28:41] "GET /single/335 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:28:48] "GET /single/334 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:28:52] "GET /single/333 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:28:57] "GET /single/332 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:29:02] "GET /single/331 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:29:06] "GET /single/330 HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:33:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:33:35] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:33:59] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:40:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:40:45] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:40:45] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:41:01] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:42:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:42:45] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 14:42:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:43:00] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:43:00] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 14:43:22] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 14:55:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 15:59:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 15:59:54] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 15:59:54] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:00:01] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 16:00:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:00:43] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 16:01:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:01:15] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 16:01:42] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 16:02:10] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:02:10] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 16:02:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:03:00] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 16:15:09] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 16:27:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:27:04] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:39:23] "GET /version HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 16:39:24] "GET /version HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 16:39:26] "GET /version HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 16:57:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:57:05] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:57:06] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:57:33] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 16:58:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 16:58:45] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 17:08:33] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 17:09:54] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 17:27:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:27:13] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:27:13] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:27:51] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 17:31:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:31:25] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:31:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:31:42] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:31:42] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:32:25] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 17:33:39] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 17:33:39] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 17:39:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 17:57:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 18:42:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 18:42:32] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 18:42:32] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 18:42:49] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 18:43:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 18:43:09] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 18:43:22] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 18:43:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 18:43:39] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 18:44:01] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 18:44:16] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [01/Nov/2024 18:53:39] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 18:53:44] "GET /demo/.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 18:53:45] "GET /dev/.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 18:53:47] "GET /doc/.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 18:53:48] "GET /docs/.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 18:53:50] "GET /download/.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 18:53:51] "GET /env/.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 18:53:55] "GET /frontend/web/debug/default/view HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 19:14:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 19:14:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 19:54:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 19:54:17] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 19:54:17] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 19:54:17] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2024 19:59:23] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 20:01:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 20:01:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 20:03:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 20:48:05] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 22:03:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 22:13:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 22:16:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 22:18:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 22:19:30] "GET /version HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 22:19:30] "GET /api/v1/pods HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1" 405 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:49] "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:50] "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:51] "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:52] "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:52] "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:52] "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:52] "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:52] "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:53] "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:53] "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:53] "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:53] "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:54] "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:54] "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:54] "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:54] "GET /index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:55] "GET /public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:55] "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:55] "GET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:00:55] "GET /containers/json HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2024 23:08:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2024 23:20:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 01:02:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 01:38:30] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 01:46:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 01:46:26] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 01:46:26] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 01:46:26] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 01:46:37] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 02:06:21] "GET /.git/config HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 02:22:24] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 02:34:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 02:34:35] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 02:36:08] "GET /BjBn HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 02:43:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 02:49:31] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 03:02:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:02:39] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:02:39] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:03:03] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 03:13:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:13:47] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 03:14:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:14:03] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 03:15:36] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 03:17:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:17:15] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:17:18] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:18:06] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 03:18:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:18:09] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 03:18:59] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 03:20:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:20:16] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 03:20:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:21:22] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 03:21:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 03:28:15] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 04:03:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:12:25] "GET /_profiler/phpinfo HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 04:26:31] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /css/font-face.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /css/theme.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /token/qrcode.svg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:32] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:33] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:33] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:33] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:33] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:33] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:33] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 04:26:39] "GET /single/354 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:26:46] "GET /single/353 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:26:53] "GET /single/352 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:27:00] "GET /single/351 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:27:07] "GET /single/350 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:27:13] "GET /single/349 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:27:22] "GET /single/347 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:27:29] "GET /single/346 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:27:36] "GET /single/345 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:38:10] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:38:11] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 04:38:15] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 04:52:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:00:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:00:07] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 05:00:14] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 05:14:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:14:33] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:15:11] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 05:16:40] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 05:17:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:17:12] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 05:17:23] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 05:19:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:19:10] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 05:19:38] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 05:22:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:22:01] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 05:24:03] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:24:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:24:05] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 05:24:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:24:18] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:24:19] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 05:24:23] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:24:43] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 05:41:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 05:41:56] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:00:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:00:53] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 06:02:51] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 06:11:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:11:48] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:11:49] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:21:31] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 06:22:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:23:00] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 06:23:13] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 06:26:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:26:30] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:26:30] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:26:41] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 06:40:15] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:40:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:40:17] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:40:17] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:40:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:40:27] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:40:35] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:40:53] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 06:44:09] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 06:44:54] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:44:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:44:55] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 06:44:55] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 06:44:55] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 06:45:07] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 06:58:13] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 06:59:27] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 07:08:01] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:20:54] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:20:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:20:56] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:20:56] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:21:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:21:11] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 07:21:11] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 07:21:12] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:21:18] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:21:48] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 07:45:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:45:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:45:29] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:45:30] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:45:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 07:45:30] "HEAD /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 07:51:40] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:15:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:15:24] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:15:24] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:15:24] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:15:50] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:16:31] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:28:49] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 08:29:09] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:33:43] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:33:43] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:33:44] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:33:56] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:34:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:34:43] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:34:44] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:35:08] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:38:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:38:58] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:39:28] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:41:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:41:20] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:41:36] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:47:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:47:35] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 08:48:02] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 08:54:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:54:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:54:16] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 08:54:16] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 08:57:35] "GET /actuator/gateway/routes HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 09:04:03] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:04] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:04] "GET /css/font-face.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:04] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:05] "GET /token/qrcode.svg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:05] "GET /css/theme.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:05] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:05] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:05] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:07] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:07] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:07] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:07] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:07] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:07] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:12] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:12] "GET /css/theme.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:12] "GET /css/font-face.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:12] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:12] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:12] "GET /token/qrcode.svg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:12] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:13] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:18] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /css/theme.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /token/qrcode.svg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /css/font-face.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:19] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 09:04:23] "GET /single/379 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:28] "GET /single/378 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:34] "GET /single/377 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 09:04:39] "GET /single/376 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 10:07:14] "GET /autodiscover/autodiscover.json?@zdi/Powershell HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 10:56:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 10:56:03] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 10:56:03] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 10:56:23] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 11:01:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:01:27] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+socialfish..................................
+127.0.0.1 - - [02/Nov/2024 11:03:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:03:13] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 11:03:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:03:38] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 11:03:38] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 11:04:43] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 11:09:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:09:31] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 11:21:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:21:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:50:28] "GET /dns-query?dns=sXoBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:28] "POST /dns-query HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:28] "GET /dns-query?name=example.com&type=A HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:29] "GET /dns-query?dns=mLcBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:29] "POST /dns-query HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:29] "GET /dns-query?name=example.com&type=A HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:29] "GET /query?dns=bMcBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:29] "POST /query HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:30] "GET /query?name=example.com&type=A HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:30] "GET /query?dns=UsQBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:31] "POST /query HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:31] "GET /query?name=example.com&type=A HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:31] "GET /resolve?dns=4QkBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:32] "POST /resolve HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:32] "GET /resolve?name=example.com&type=A HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:33] "GET /resolve?dns=7HEBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:33] "POST /resolve HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:33] "GET /resolve?name=example.com&type=A HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 11:50:33] "GET /?dns=bKoBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:50:34] "POST / HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:34] "GET /?name=example.com&type=A HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:50:35] "GET /?dns=Vh8BAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:50:35] "POST / HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 11:50:35] "GET /?name=example.com&type=A HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 11:58:14] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 12:00:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:15:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:15:17] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:15:18] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:15:44] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:19:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:19:28] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 12:19:36] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:21:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:21:24] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 12:21:29] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:22:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:22:06] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 12:22:08] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:26:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:26:01] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:26:02] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:26:27] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:27:11] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:28:27] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:29:57] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 12:31:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:32:03] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:32:03] "GET /robots.txt HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 12:32:03] "GET /sitemap.xml HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 12:32:05] "GET /config.json HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 12:34:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:34:59] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 12:35:17] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:36:39] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:37:22] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:40:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:40:02] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 12:40:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:40:29] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:40:29] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:44:22] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:46:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:46:42] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:46:43] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:46:58] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 12:51:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 12:51:21] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 13:01:33] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:01:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:01:37] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:01:38] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:01:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:01:52] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:01:57] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:02:01] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 13:02:30] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 13:16:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:16:58] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:18:27] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 13:19:06] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 13:24:11] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 13:28:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:28:03] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:28:04] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:28:25] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 13:33:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:34:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:34:26] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 13:34:27] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 13:37:59] "GET /webui/ HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 13:41:23] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 13:42:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 13:45:45] "GET /geoserver/web/ HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 13:47:04] "GET /.git/config HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 14:40:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 15:22:21] "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 15:22:21] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:22] "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:22] "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:23] "GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:23] "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:24] "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:24] "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:25] "GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:26] "GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:26] "GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:27] "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:27] "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:28] "GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:29] "GET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:29] "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:30] "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:31] "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:31] "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:32] "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:33] "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:33] "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:34] "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:35] "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:35] "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:36] "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:37] "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:38] "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:38] "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:39] "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:39] "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:40] "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:41] "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:41] "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:42] "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:42] "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:43] "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:44] "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:44] "GET /index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:45] "GET /public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:45] "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:46] "GET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:22:47] "GET /containers/json HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:35:50] "GET /wp-content/plugins/wp-automatic/inc/csv.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 15:53:22] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 16:22:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:35:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:35:29] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:35:29] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:35:41] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 16:38:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:38:16] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 16:38:20] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 16:45:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:45:21] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [02/Nov/2024 16:45:29] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 16:55:04] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:55:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:55:06] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:55:06] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:55:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:55:16] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:55:22] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 16:55:39] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 16:55:42] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [02/Nov/2024 17:43:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 17:52:14] "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 17:52:14] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:15] "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:15] "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:15] "GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:17] "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:18] "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:18] "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:18] "GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:19] "GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:19] "GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:20] "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:20] "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:20] "GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:21] "GET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:22] "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:22] "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:22] "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:23] "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:24] "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:24] "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:25] "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:26] "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:26] "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:27] "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:27] "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:28] "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:28] "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:29] "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:29] "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:30] "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:30] "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:30] "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:31] "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:31] "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:31] "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:32] "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:32] "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:33] "GET /index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:33] "GET /public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:34] "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:34] "GET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:52:34] "GET /containers/json HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 17:59:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:15] "GET /single/379 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:17] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:18] "GET /css/font-face.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:18] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:18] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:19] "GET /css/theme.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:19] "GET /token/qrcode.svg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:19] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:19] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:19] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:20] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:20] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:20] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:20] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:20] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:20] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:26] "GET /single/404 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:34] "GET /single/403 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:44] "GET /single/402 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:40:53] "GET /single/401 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:41:00] "GET /single/400 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:41:08] "GET /single/399 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:41:22] "GET /single/399 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:41:32] "GET /single/397 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:41:39] "GET /single/396 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:41:46] "GET /single/395 HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:42:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:42:44] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:42:45] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:45:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:45:36] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 18:46:07] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 19:26:51] "GET /.git/config HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 19:34:04] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 19:58:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 20:06:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:29:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:29:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:29:32] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:29:39] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:30:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:50:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:50:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 21:50:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 22:36:00] "GET /ab2g HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 22:36:00] "GET /ab2h HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 22:36:00] "GET /alive.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 22:36:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 22:36:03] "GET /t4 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 22:36:04] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 22:36:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 22:36:05] "GET /teorema505?t=1 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 22:58:52] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:05:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 23:14:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 23:14:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 23:14:12] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Nov/2024 23:14:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:38:26] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:11] "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1" 405 -
+127.0.0.1 - - [02/Nov/2024 23:43:11] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:12] "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:12] "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:12] "GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:13] "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:13] "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:13] "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:14] "GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:14] "GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:14] "GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:15] "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:15] "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:15] "GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:16] "GET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:16] "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:16] "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:16] "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:17] "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:17] "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:17] "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:18] "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:18] "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:18] "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:19] "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:19] "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:19] "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:20] "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:20] "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:20] "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:21] "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:21] "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:22] "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:22] "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:22] "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:22] "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:23] "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:23] "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:23] "GET /index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:24] "GET /public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:24] "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:24] "GET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1" 404 -
+127.0.0.1 - - [02/Nov/2024 23:43:25] "GET /containers/json HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 00:22:07] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 00:26:18] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 00:26:20] "POST / HTTP/1.1" 405 -
+127.0.0.1 - - [03/Nov/2024 01:23:09] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 01:25:15] "POST / HTTP/1.1" 405 -
+127.0.0.1 - - [03/Nov/2024 02:17:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:17:54] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:17:55] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:18:29] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 02:18:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:18:55] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:18:56] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:19:21] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 02:20:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:20:09] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:20:10] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:20:45] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 02:25:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:25:18] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:25:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:25:22] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:25:22] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:25:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:25:28] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 02:26:49] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 02:28:05] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 02:48:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:48:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:48:37] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 02:48:38] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 03:04:36] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 03:21:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 03:21:11] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 03:21:12] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 03:21:35] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 03:25:02] "GET /.git/config HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 03:37:30] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 03:54:49] "GET /.git/config HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 03:59:43] "POST / HTTP/1.1" 405 -
+127.0.0.1 - - [03/Nov/2024 04:01:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:01:54] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:01:54] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:02:45] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 04:03:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:03:23] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 04:03:40] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 04:12:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:12:20] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 04:13:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:13:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:13:29] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 04:14:11] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 05:28:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:28:15] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:28:19] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 05:34:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:38:23] "GET /webui/ HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 05:41:12] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /css/font-face.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /css/theme.css HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /token/qrcode.svg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:13] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:14] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:14] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:14] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:14] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:41:16] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 05:41:44] "GET /single/411 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:41:51] "GET /single/410 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:41:58] "GET /single/409 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:42:05] "GET /single/408 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:42:12] "GET /single/407 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:42:19] "GET /single/406 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:42:24] "GET /single/404 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:42:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:46:12] "GET /geoserver/web/ HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 05:50:45] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:58:43] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:58:43] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 05:59:02] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 05:59:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:59:02] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 05:59:03] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 05:59:03] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 06:00:56] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 06:04:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 06:04:35] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 06:04:36] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 06:05:04] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 06:08:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 06:08:34] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 06:08:34] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 06:08:34] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 06:09:14] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 06:29:21] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 06:43:47] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 07:13:42] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 07:24:21] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 07:28:23] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 07:38:07] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 07:48:58] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 07:51:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 07:51:56] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 07:51:57] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:11:49] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 08:11:50] "POST / HTTP/1.1" 405 -
+127.0.0.1 - - [03/Nov/2024 08:49:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:49:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:49:50] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:49:50] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:49:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:49:51] "HEAD /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 08:55:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:55:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:55:12] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 08:55:12] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 09:04:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 09:04:48] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 09:04:51] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 09:05:30] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 09:08:35] "GET /actuator/gateway/routes HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 09:08:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 09:08:40] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 09:08:44] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 09:09:16] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 09:37:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 10:34:56] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 10:59:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 10:59:49] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 11:33:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 11:33:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 11:33:41] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 11:33:41] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 12:24:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 12:25:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 13:36:57] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 13:39:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 13:40:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 13:40:10] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 13:40:10] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 13:40:41] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 13:44:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 13:44:08] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 13:44:09] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 13:44:27] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2024 13:44:39] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 14:01:29] "GET /logo/amazon.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 14:05:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 14:05:46] "GET /logo/amazon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 14:21:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 14:21:29] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 14:54:21] "POST / HTTP/1.1" 405 -
+127.0.0.1 - - [03/Nov/2024 14:54:22] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:23] "GET /core/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:25] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:27] "GET /core/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:29] "GET /backend/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:31] "GET /app/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:32] "GET /laravel/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:33] "GET /laravel/core/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:35] "GET /beta/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:38] "GET /config/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:40] "GET /kyc/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:41] "GET /admin/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:42] "GET /prod/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:44] "GET /api/.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:46] "GET /_ignition/execute-solution HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:55] "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1" 405 -
+127.0.0.1 - - [03/Nov/2024 14:54:55] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:56] "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:56] "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:57] "GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:57] "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:58] "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:58] "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:58] "GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:59] "GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:54:59] "GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:00] "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:00] "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:00] "GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:00] "GET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:01] "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:01] "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:01] "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:02] "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:02] "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:03] "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:03] "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:04] "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:04] "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:05] "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:05] "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:05] "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:06] "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:06] "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:06] "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:06] "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:07] "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:07] "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:07] "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:07] "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:08] "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:08] "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:08] "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:09] "GET /index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:09] "GET /public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:09] "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:10] "GET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 14:55:10] "GET /containers/json HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 15:06:38] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 15:41:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 16:02:50] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 16:16:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 16:16:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 16:16:52] "GET /logo/amlogo/amlogo/ama.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 16:16:52] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 16:42:48] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 16:49:20] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:32:05] "GET /.env HTTP/1.1" 404 -
+127.0.0.1 - - [03/Nov/2024 17:44:22] "GET /?max-keys=1 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:46:47] "GET /creds HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:46:48] "GET /vendor/mdi-font/css/material-design-iconic-font.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:46:48] "GET /css/font-face.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:46:48] "GET /vendor/bootstrap-4.1/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:46:49] "GET /css/theme.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:46:49] "GET /token/qrcode.svg HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:49] "GET /vendor/jquery-3.2.1.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:49] "GET /vendor/bootstrap-4.1/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:49] "GET /vendor/bootstrap-4.1/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:50] "GET /fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:50] "GET /vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:50] "GET /fonts/poppins/poppins-v5-latin-300.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:50] "GET /fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:50] "GET /fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:50] "GET /fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [03/Nov/2024 17:46:55] "GET /single/417 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:47:00] "GET /single/416 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:47:05] "GET /single/415 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:47:12] "GET /single/414 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2024 17:47:19] "GET /single/413 HTTP/1.1" 200 -
